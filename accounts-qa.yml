@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs"
+  message: "Welcome to EazyBank accounts related QA APIs with RabbitMQ"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "{cipher}77bed8a5f10213576095ae125fe4ecec324c655e907e402ea6578abb9ee40c38832ce8b945f2ed00a3a51f1dfffaa932"
